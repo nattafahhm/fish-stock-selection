@@ -3,12 +3,12 @@
 #### -- Project Status: [Active, On-Hold, Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is to develop an automation and optimazation system for fish stock selection.
 
 ### Collaborators
-|Name     |  Github Page   |  Personal Website  |
+|Name     |  Github Page   | 
 |---------|-----------------|--------------------|
-|Misha Berrien | [mishaberrien](https://github.com/mishaberrien)| [www.mishaberrien.com](https://mishaberrien.com/)  |
+|Nattaya Mairittha | [nattafahhm](https://github.com/nattafahhm) |
 
 ### Methods Used
 * Inferential Statistics
@@ -18,9 +18,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 * etc.
 
 ### Technologies
-* R
 * Python
-* D3
 * PostGres, MySql
 * Pandas, jupyter
 * HTML
