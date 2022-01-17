@@ -7,7 +7,9 @@ The purpose of this project is to develop an automation and optimazation system 
 
 ### Collaborators
 |Name     |  Github Page   | 
+
 |---------|-----------------|--------------------|
+
 |Nattaya Mairittha | [nattafahhm](https://github.com/nattafahhm) |
 
 ### Methods Used
